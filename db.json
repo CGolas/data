@@ -2,12 +2,19 @@
   "posts": [
 
 
-        {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "link": "https://www.ostrowmaz24.pl/art/30943/koronawirus-nowy-raport-ostrowskiego-sanepidu", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"},
+        {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "link": "https://www.ostrowmaz24.pl/art/30943/", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"},
 
-        {"news":"2", "id":2, "title": "Majówka z gwałtowną aurą.", "link": "https://www.ostrowmaz24.pl/art/30949/majowka-z-gwaltowna-aura-burze-z-opadami-deszczu-i-porywisty-wiatr-wideo", "reklama": "tak", "image": "uploads/artykuly/2020/04/pogoda-staw-miejski-jpg_5ea91cc4c261d.webp"},
+        {"news":"2", "id":2, "title": "Majówka z gwałtowną aurą.", "link": "https://www.ostrowmaz24.pl/art/30949/", "reklama": "tak", "image": "uploads/artykuly/2020/04/pogoda-staw-miejski-jpg_5ea91cc4c261d.webp"},
 
-        {"news":"3", "id":3, "title": "Interaktywna mapa zachorowań na COVID-19 na Mazowszu.", "link": "https://www.ostrowmaz24.pl/art/30941/interaktywna-mapa-zachorowan-na", "reklama": "tak", "image": "uploads/artykuly/2020/04/mapa-koronawirus-jpg_5eaa8dd0025ed.webp"}
+        {"news":"3", "id":3, "title": "Interaktywna mapa zachorowań na COVID-19 na Mazowszu.", "link": "https://www.ostrowmaz24.pl/art/30941/", "reklama": "tak", "image": "uploads/artykuly/2020/04/mapa-koronawirus-jpg_5eaa8dd0025ed.webp"}
   ],
+  
+  "art": [
+
+
+        {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "content": "treść <strong>tego</strong> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"},
+  ],
+  
     "profile": {
     "name": "skinc10"
   }
