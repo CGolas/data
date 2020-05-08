@@ -10,15 +10,11 @@
   
   "art": [
     
-    "1":[
+
     
         {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "content": "treść <b>tego</b> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"}
-    ],
-  
-    "2":[
-    
         {"news":"2", "id":2, "title": "drgugi Koronawirus. Nowy raport", "content": "treść <b>tego</b> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"}
-    ],
+
   
   ],
   
