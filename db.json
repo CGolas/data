@@ -1,10 +1,10 @@
 {
   "posts": [
         {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "link": "https://www.ostrowmaz24.pl/art/30943/", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"},
-        {"news":"2", "id":2, "title": "Majówka z gwałtowną.", "link": "https://www.ostrowmaz24.pl/art/30949/", "reklama": "tak", "image": "uploads/artykuly/2020/04/pogoda-staw-miejski-jpg_5ea91cc4c261d.webp"},
+        {"news":"2", "id":2, "title": "Majówka z gwałtowną.", "link": "https://www.ostrowmaz24.pl/art/30949/", "reklama": "tak", "image": "uploads/artykuly/2020/04/pogoda-staw-miejski-jpg_5ea91cc4c261d.webp"}
   ],
   "art": [
-        {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "content": "treść <b>tego</b> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"}
+        {"news":"1", "id":1, "title": "Koronawirus. Nowy raport", "content": "treść <b>tego</b> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"},
         {"news":"2", "id":2, "title": "drgugi Koronawirus. Nowy raport", "content": "treść <b>tego</b> newsa", "reklama": "tak", "image": "uploads/artykuly/2020/04/koronawirus-covid-19-jpg_5eaa9b4249805.webp"}
   ],
     "profile": {
